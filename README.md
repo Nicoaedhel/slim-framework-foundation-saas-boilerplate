@@ -53,7 +53,10 @@ $ php -S localhost:8000
 Now, visit `http://localhost:8000/` in your browser.
 
 
+## Config 
 
+Open app/config.ini and change value for your site.
+Change name - path - author
 
 
 Inspired by [Svelte](https://github.com/stursby/svelte) for Boilerplate slim framework
