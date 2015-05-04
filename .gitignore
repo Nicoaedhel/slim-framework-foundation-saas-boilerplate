@@ -1,0 +1,4 @@
+/front/.sass-cache/*
+*.DS_Store
+/app/public/css/*
+/app/vendor/*
