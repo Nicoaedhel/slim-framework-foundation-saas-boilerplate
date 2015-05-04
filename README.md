@@ -58,5 +58,9 @@ Now, visit `http://localhost:8000/` in your browser.
 Open app/config.ini and change value for your site.
 Change name - path - author
 
+## For deploy
 
+Copy only /app/ in web server.
+
+---
 Inspired by [Svelte](https://github.com/stursby/svelte) for Boilerplate slim framework
