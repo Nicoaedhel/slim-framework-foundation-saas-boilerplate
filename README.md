@@ -27,17 +27,6 @@ To add packages, edit the `composer.json` file and run the following:
 $ php composer.phar update
 ```
 
-## Run a server
-
-To see in action, you can boot up a local server using the following:
-
-```bash
-$ php -S localhost:8000
-```
-
-Now, visit `http://localhost:8000/` in your browser.
-
-
 ## For Sass Foundation 
 
 install  :
@@ -51,6 +40,18 @@ Run :
 ```bash
 $ cd front & bundle exec compass watch
 ```
+
+
+## Run a server
+
+To see in action, you can boot up a local server using the following:
+
+```bash
+$ php -S localhost:8000
+```
+
+Now, visit `http://localhost:8000/` in your browser.
+
 
 
 
