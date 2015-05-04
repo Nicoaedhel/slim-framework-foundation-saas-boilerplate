@@ -10,7 +10,7 @@ $ curl -sS https://getcomposer.org/installer | php
 Next, clone the repo:
 
 ```bash
-$ git clone https://github.com/Nicoaedhel/slim-framework-foundation-saas-boilerplate.git
+$ git clone https://github.com/Nicoaedhel/slim-framework-foundation-sass-boilerplate.git
 ```
 Install packages via Composer :
 
