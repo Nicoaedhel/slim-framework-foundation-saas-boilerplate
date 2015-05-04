@@ -38,7 +38,7 @@ $ gem install compass
 Run in front :
 
 ```bash
-$ cd front & bundle exec compass watch
+$ bundle exec compass watch
 ```
 
 
