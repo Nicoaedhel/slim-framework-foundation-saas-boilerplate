@@ -12,7 +12,7 @@ Next, clone the repo:
 ```bash
 $ git clone https://github.com/Nicoaedhel/slim-framework-foundation-sass-boilerplate.git
 ```
-Install packages via Composer :
+Install packages via Composer in app :
 
 ```bash
 $ php composer.phar install
@@ -29,13 +29,13 @@ $ php composer.phar update
 
 ## For Sass Foundation 
 
-install  :
+install in front :
 
 ```bash
 $ gem install compass
 ```
 
-Run :
+Run in front :
 
 ```bash
 $ cd front & bundle exec compass watch
@@ -44,7 +44,7 @@ $ cd front & bundle exec compass watch
 
 ## Run a server
 
-To see in action, you can boot up a local server using the following:
+To see in action, you can boot up a local server using the following in app:
 
 ```bash
 $ php -S localhost:8000
